@@ -16,7 +16,6 @@
   ],
   "dependencies": {
     "concat-stream": "^1.6.1",
-    "jsonlint-lines": "1.7.1",
     "minimist": "1.2.0",
     "vfile": "^2.3.0",
     "vfile-reporter": "^4.0.0"
