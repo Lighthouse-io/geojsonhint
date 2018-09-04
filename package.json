@@ -39,7 +39,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:anmarusic/geojsonhintgit"
+    "url": "git://github.com/anmarusic/geojsonhint.git"
   },
   "scripts": {
     "test": "eslint . && tap test/*.js --coverage",
